@@ -3,12 +3,6 @@
 ## 📌 Project Overview
 The **Interactive Resume** is a modern, responsive web-based resume built with **HTML, CSS, and JavaScript**. Unlike a traditional static resume, this project features **interactive elements, theme switching, and a downloadable PDF option**, making it both visually appealing and functional.
 
-## 🎯 Purpose of This Project
-- To apply and revise **HTML, CSS, and JavaScript** fundamentals.
-- To create a **real-world, portfolio-worthy project**.
-- To experiment with **DOM manipulation and local storage**.
-- To build an **engaging and user-friendly** digital resume.
-
 ## 🚀 Learning Goals
 ✔ **HTML & CSS:** Structuring content with semantic tags and designing a responsive layout.
 ✔ **JavaScript:** Adding interactivity (theme toggle, smooth scrolling, PDF export).
