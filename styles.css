@@ -29,8 +29,16 @@ body {
   aspect-ratio: square;
 }
 .sidearea section {
-    width: 100%;
+  width: 100%;
   text-align: left;
+}
+.sidearea .skillsSection .skillItem {
+  display: inline-block;
+  background-color: var(--white);
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  font-weight: bold;
 }
 .mainarea {
   background-color: var(--white);
